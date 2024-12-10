@@ -1,0 +1,11 @@
+{
+    "name": "TRUDI THE CAT",
+    "symbol": "TRUDI",
+    "description": "A solana based memcoin representing TRUDI the cat.",
+    "image": "https://github.com/anjansom/trudi.png",
+    "attributes": [
+      { "trait_type": "Color", "value": "Green" },
+      { "trait_type": "Size", "value": "Medium" }
+    ],
+    "isMutable": true
+  }
